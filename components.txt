@@ -1,0 +1,13 @@
+Component List:
+1.	Arduino uno
+2.	Servo motor
+3.	PIR sensor
+4.	Ultrasonic sensor
+5.	LCD display (16 x 2)
+6.	MQ-3 alcohol gas sensor
+7.	Buzzer
+8.	resistor
+9.	Connecting wires
+10.	Leds 
+11.	Breadboard
+
